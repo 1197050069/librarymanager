@@ -1,0 +1,40 @@
+*{
+     font-family: 'Montserrat', sans-serif;
+}
+ 
+body{
+     height: 100vh;
+     background-size: cover;
+     background-position: center;
+     background-repeat: no-repeat;
+}
+
+h4 {
+     padding-top: 5px;
+     padding-bottom: 10px;
+}
+
+nav {
+	background-color: rgb(178, 216, 250);
+}
+
+.container {
+     width: 75% !important;
+     border-color: 0 3px 20px rgba(0, 0, 0, 0.4);
+     border-radius: 1%;
+     padding: 2%;
+     margin-bottom: 5%;
+ 
+     background-color: rgb(211, 233, 252);
+     opacity: 90%;
+}
+
+span {
+     display: inline-block;
+     width: 250px;
+}
+
+label {
+     display: inline-block;
+     width: 250px;
+}
